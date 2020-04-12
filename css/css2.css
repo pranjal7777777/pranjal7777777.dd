@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    padding-left: 500;
+    background-color:lightcoral;
+    color: white;
+    padding-top: 20%;
+}
+.box1
+{
+    align-items: center;
+    background-color: red;
+    height: 100px;
+    width: 300px;
+}
